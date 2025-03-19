@@ -5,6 +5,7 @@ cms_exclude: false
 # View.
 sections:
     - block: collection
+      id: papers
       content:
       title: Artículos
       text: ""
