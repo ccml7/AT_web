@@ -14,7 +14,7 @@ sections:
         categories: 'Artículos'
         exclude_featured: false
       design:
-      view: citation
+        view: citation
 
 # Optional header image (relative to `static/media/` folder).
 banner:
