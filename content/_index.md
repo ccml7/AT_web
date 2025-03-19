@@ -37,7 +37,6 @@ sections:
       text: |-
         Me interesan las políticas de pacificación, las paces que, desde una perspectiva subnacional, se han implementado en el Tolima, desde 1953 hasta el 2016. Cuestionarnos por estas paces nos ha permitido enfocarnos en el análisis de los factores de persistencia de la violencia política, que no son ajenos a los conflictos de la relación entre Estado y territorio.
 
-        Aquí se pueden descargar las publicaciones y los cursos de pregrado y posgrado que recogen las reflexiones y los resultados de investigación de los temas anteriormente descritos. También permite el acceso a los repositorios de fuentes primarias de varios proyectos desarrollados por los equipos de trabajo del semillero de investigación en estudios sobre paz, violencia y orden social, el Observatorio de Paz y Derechos Humanos, y el Centro de Estudios Regionales de la Universidad del Tolima, con el objetivo de colaborar a las investigaciones - e investigadores - futuras en estos asuntos.
     design:
       columns: '1'
   - block: collection
