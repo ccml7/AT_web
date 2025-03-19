@@ -42,7 +42,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Investigaciones Destacadas
       filters:
         folders:
           - publication
@@ -52,7 +52,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publicaciones
       text: ""
       filters:
         folders:
