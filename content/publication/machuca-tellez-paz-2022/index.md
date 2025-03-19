@@ -4,7 +4,7 @@ title: 'La paz y sus mujeres: lucha social, reconstrucción comunitaria y empode
 authors:
 - Gerardo Andrés Machuca Téllez
 - Santiago Giraldo Luque
-- *Andrés Tafur Villareal*
+- Andrés Tafur Villareal
 - Victoria Sandino Simanca Herrera
 - Gisela Martínez Fagella
 - Helena Rodríguez Gómez
