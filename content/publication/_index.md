@@ -1,24 +1,46 @@
 ---
-title:
-cms_exclude: false
+# Page title
+title: My page
+# Page type - we want a landing page (such as a homepage)
+type: landing
 
-# View.
+design:
+  spacing: 2rem
+
+
+# Your landing page sections - add as many different content blocks as you like
 sections:
-    - block: collection
-      id: papers
-      content:
+  - block: collection
+    id: articles
+    content:
       title: Artículos
-      text: ""
       filters:
         folders:
           - publication
-        categories: 'Artículos'
-        exclude_featured: false
-      design:
-        view: citation
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+        publication_type: "article-journal"
+    design:
+      view: citation
+    sort_by: 'Date'
+  - block: collection
+    id: chapter
+    content:
+      title: Capítulos de libros
+      filters:
+        folders:
+          - publication
+        publication_type: "chapter"
+    design:
+      view: citation
+    sort_by: 'Date'
+  - block: collection
+    id: reports
+    content:
+      title: Informes técnicos
+      filters:
+        folders:
+          - publication
+        publication_type: "report"
+    design:
+      view: citation
+    sort_by: 'Date'
 ---

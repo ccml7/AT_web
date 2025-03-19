@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report | Andrés Tafur Villarreal</title>
+    <link>http://localhost:1313/publication_types/report/</link>
+      <atom:link href="http://localhost:1313/publication_types/report/index.xml" rel="self" type="application/rss+xml" />
+    <description>Report</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1da70566100ead27.png</url>
+      <title>Report</title>
+      <link>http://localhost:1313/publication_types/report/</link>
+    </image>
+    
+    <item>
+      <title>Planear para transformar: Aproximación a los resultados de la ejecución del Plan de Desarrollo Territorial ‘El Tolima nos une 2020-2023</title>
+      <link>http://localhost:1313/publication/tafur-villarreal-planear-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tafur-villarreal-planear-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retos para a implementación del ordenamiento social de la propiedad rural en Colombia: el caso de Planadas, Tolima</title>
+      <link>http://localhost:1313/publication/tafur-villarreal-retos-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tafur-villarreal-retos-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinámicas emergentes de riesgo para niñas, niños y adolescentes en el sur del Tolima: los nuevos escenarios del reclutamiento forzado, el uso y la utilización de menores</title>
+      <link>http://localhost:1313/publication/tafur-villarreal-dinamicas-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tafur-villarreal-dinamicas-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desafíos de equidad frente a la pandemia COVID-19: recomendaciones para el Departamento del Tolima</title>
+      <link>http://localhost:1313/publication/tafur-villarreal-desafios-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tafur-villarreal-desafios-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuevas y viejas violencias: desafíos para la no repetición del conflicto armado en el Sur del Tolima</title>
+      <link>http://localhost:1313/publication/tafur-villarreal-nuevas-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tafur-villarreal-nuevas-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

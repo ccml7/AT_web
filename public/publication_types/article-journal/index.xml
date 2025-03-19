@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Andrés Tafur Villarreal</title>
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1da70566100ead27.png</url>
+      <title>Article-Journal</title>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>La paz y sus mujeres: lucha social, reconstrucción comunitaria y empoderamiento del perdón</title>
+      <link>http://localhost:1313/publication/machuca-tellez-paz-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/machuca-tellez-paz-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebel government and civilian resistance: conservation experiences during the armed conflict in the Cañon de las Hermosas in Colombia</title>
+      <link>http://localhost:1313/publication/tafur-villarreal-rebel-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tafur-villarreal-rebel-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistencia comunitaria como experiencia de construcción de paz y diálogo social en el Cañón de las Hermosas (Colombia)</title>
+      <link>http://localhost:1313/publication/novello-resistencia-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/novello-resistencia-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Una teoria sobre el papel de las mujeres víctimas: supervivientes en la paz para Colombia.</title>
+      <link>http://localhost:1313/publication/giraldo-luque-teoria-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giraldo-luque-teoria-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La solución política del conflicto armado y la reivindicación de la memoria como política cultural de las víctimas de crímenes de Estado: el caso de la Fundación Manuel Cepeda Vargas</title>
+      <link>http://localhost:1313/publication/tafur-villarreal-solucion-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tafur-villarreal-solucion-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
