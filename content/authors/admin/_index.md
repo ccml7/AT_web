@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Andrés Tafur Villareal
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Andrés
+last_name: Tafur
 
 # Status emoji
 status:
@@ -20,65 +20,58 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Profesor Titular | Facultad de Humanidades
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Universidad del Tolima
+    url: http://www.ut.edu.co/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jatafurv@ut.edu.co'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/andrstafurv
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://www.instagram.com/andresconsuerte/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/andr%C3%A9s-tafur-villarreal-b016712a/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=sHyOILcAAAAJ&hl=es&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2497-4016
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Intereses:
+  - Conflicto armado
+  - Construcción de paz
+  - Gobernanza territorial
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+Educación:
+  - area: MSc Construcción de paz
+    institution: Universidad de los Andes
+    date_start: 2020-01-01
+    date_end: 2022-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Lorem lorem lorem lorem
     button:
-      text: 'Read Thesis'
+      text: 'Leer tésis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Ciencia política
+    institution: Universidad de los Andes
+    date_start: 2015-01-01
+    date_end: 2017-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
+  - area: Pregrado en Filosofía
+    institution: Universidad de Ibagué
+    date_start: 2010-01-01
+    date_end: 2015-12-31
+    summary: |      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -181,6 +174,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Sobre mí
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Investigo sobre conflictos armados y construcción de paz. Me interesa el análisis de los contextos en que interactúan civiles y combatientes, las dinámicas del gobierno rebelde y criminal, la resistencia comunitaria, y la manera como estos asuntos pueden arrojar luces, en el escenario de la transición, a la gobernanza territorial, la restauración y la reconciliación en escenarios locales
