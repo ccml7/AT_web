@@ -30,15 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'Investigación'
-      subtitle: ''
-      text: |-
-        Me interesan las políticas de pacificación, las paces que, desde una perspectiva subnacional, se han implementado en el Tolima, desde 1953 hasta el 2016. Cuestionarnos por estas paces nos ha permitido enfocarnos en el análisis de los factores de persistencia de la violencia política, que no son ajenos a los conflictos de la relación entre Estado y territorio.
-
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:

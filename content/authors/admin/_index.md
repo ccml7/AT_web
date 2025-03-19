@@ -176,4 +176,6 @@ reconocimientos:
 
 ## Sobre mí
 
-Investigo sobre conflictos armados y construcción de paz. Me interesa el análisis de los contextos en que interactúan civiles y combatientes, las dinámicas del gobierno rebelde y criminal, la resistencia comunitaria, y la manera como estos asuntos pueden arrojar luces, en el escenario de la transición, a la gobernanza territorial, la restauración y la reconciliación en escenarios locales
+Investigo sobre conflictos armados y construcción de paz. Me interesa el análisis de los contextos en que interactúan civiles y combatientes, las dinámicas del gobierno rebelde y criminal, la resistencia comunitaria, y la manera como estos asuntos pueden arrojar luces, en el escenario de la transición, a la gobernanza territorial, la restauración y la reconciliación en escenarios locales.
+
+Me interesan las políticas de pacificación, las paces que, desde una perspectiva subnacional, se han implementado en el Tolima, desde 1953 hasta el 2016. Cuestionarnos por estas paces nos ha permitido enfocarnos en el análisis de los factores de persistencia de la violencia política, que no son ajenos a los conflictos de la relación entre Estado y territorio.
