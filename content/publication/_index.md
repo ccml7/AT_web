@@ -6,11 +6,11 @@ cms_exclude: true
 sections:
     - block: collection
       content:
-      title: Publicaciones
+      title: Artículos
       text: ""
       filters:
         folders:
-          - publication
+          - publication/
         categories: 'Artículos'
         exclude_featured: false
       design:
