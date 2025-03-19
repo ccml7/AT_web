@@ -1,6 +1,6 @@
 ---
-title: asdfasdgf
-cms_exclude: true
+title:
+cms_exclude: false
 
 # View.
 sections:
