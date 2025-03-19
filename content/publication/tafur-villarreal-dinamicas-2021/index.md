@@ -33,4 +33,5 @@ abstract: 'El documento es el producto de una alianza del Centro de Estudios Reg
 links:
 - name: URL
   url: https://repository.ut.edu.co/handle/001/3762
+categories: ["Informe técnico"]
 ---

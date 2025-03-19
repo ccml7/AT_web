@@ -19,4 +19,5 @@ links:
 - name: URL
   url: 
     https://repositorio.cun.edu.co/bitstream/handle/cun/4739/Libro%20-%20Mujeres%20Victimas.pdf?sequence=1
+categories: ["Artículo"]
 ---

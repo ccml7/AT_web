@@ -18,4 +18,5 @@ publication_types:
 links:
 - name: URL
   url: https://repositorio.cun.edu.co/handle/cun/3324
+categories: ["Artículo"]
 ---

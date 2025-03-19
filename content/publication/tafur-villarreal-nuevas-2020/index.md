@@ -33,4 +33,5 @@ abstract: Este Informe desvirtúa la hipótesis según la cual, los grupos armad
 links:
 - name: URL
   url: https://repository.ut.edu.co/handle/001/3759
+categories: ["Informe técnico"]
 ---

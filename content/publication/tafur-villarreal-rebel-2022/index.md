@@ -37,4 +37,5 @@ abstract: 'Cañón de las Hermosas is located in a buffer zone of the Páramos C
   level, the research design and methods integrated fieldwork and archival review
   with qualitative analysis, and included field interviews, documentary and archival
   review.'
+categories: ["Artículo"]
 ---

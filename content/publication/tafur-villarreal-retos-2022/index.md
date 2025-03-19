@@ -24,4 +24,5 @@ abstract: El presente informe documenta las expectativas frustradas en torno a l
 links:
 - name: URL
   url: https://repository.ut.edu.co/handle/001/3766
+categories: ["Informe técnico"]
 ---

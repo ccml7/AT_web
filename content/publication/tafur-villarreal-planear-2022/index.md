@@ -32,4 +32,5 @@ links:
 - name: URL
   url: 
     https://repository.ut.edu.co/entities/publication/a5119243-af6b-487a-9c95-504f3ef94528
+categories: ["Informe técnico"]
 ---

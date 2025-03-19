@@ -13,4 +13,5 @@ publication_types:
 links:
 - name: URL
   url: https://repository.ut.edu.co/handle/001/3768
+categories: ["Informe técnico"]
 ---

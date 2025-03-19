@@ -46,4 +46,5 @@ abstract: Through the case study of the \"Fundación Manuel Cepeda Vargas para l
 links:
 - name: URL
   url: https://dialnet.unirioja.es/servlet/articulo?codigo=6826330
+categories: ["Artículo"]
 ---
