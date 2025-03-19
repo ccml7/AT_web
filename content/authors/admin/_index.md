@@ -174,8 +174,6 @@ reconocimientos:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Sobre mí
-
 Investigo sobre conflictos armados y construcción de paz. Me interesa el análisis de los contextos en que interactúan civiles y combatientes, las dinámicas del gobierno rebelde y criminal, la resistencia comunitaria, y la manera como estos asuntos pueden arrojar luces, en el escenario de la transición, a la gobernanza territorial, la restauración y la reconciliación en escenarios locales.
 
 Me interesan las políticas de pacificación, las paces que, desde una perspectiva subnacional, se han implementado en el Tolima, desde 1953 hasta el 2016. Cuestionarnos por estas paces nos ha permitido enfocarnos en el análisis de los factores de persistencia de la violencia política, que no son ajenos a los conflictos de la relación entre Estado y territorio.
