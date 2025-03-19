@@ -7,7 +7,7 @@ name_pronunciation:
 
 # Full name (for SEO)
 first_name: Andrés
-last_name: Tafur
+last_name: Tafur Villareal
 
 # Status emoji
 status:
