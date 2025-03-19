@@ -10,7 +10,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/
+          - publication
         categories: 'Artículos'
         exclude_featured: false
       design:
