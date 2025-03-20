@@ -9,7 +9,7 @@ tags:
 image:
   caption: ''
 ---
-![image info](./featured.jpg)
+![image info](./featured.jpeg)
 
 ## Acerca de
 
