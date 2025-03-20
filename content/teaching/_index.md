@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Docencia
+summary: Cursos
 type: landing
 
 cascade:
@@ -12,8 +12,9 @@ cascade:
 sections:
   - block: collection
     id: teaching
+    date: null
     content:
-      title: Teaching
+      title: Docencia
       filters:
         folders:
           - teaching

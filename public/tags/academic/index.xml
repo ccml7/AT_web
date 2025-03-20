@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/academic/</link>
       <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_1da70566100ead27.png</url>
       <title>Academic</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <title>La seguridad, la planeación y los problemas ambientales, económicos y sociales en el nuevo Plan de Desarrollo del Tolima.</title>
+      <link>http://localhost:1313/post/seguridad/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/seguridad/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 

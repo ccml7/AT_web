@@ -10,13 +10,13 @@ main:
   - name: Publicaciones
     url: publication/
     weight: 11
-  - name: Conferencias
+  - name: Charlas
     url: /#talks
     weight: 12
     weight: 13
-  - name: Proyectos
-    url: projects/
-    weight: 30
+  - name: Blog
+    url: post/
+    weight: 50
   - name: Docencia
     url: teaching/
     weight: 40

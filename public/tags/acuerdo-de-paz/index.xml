@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acuerdo De Paz | Andrés Tafur Villarreal</title>
+    <link>http://localhost:1313/tags/acuerdo-de-paz/</link>
+      <atom:link href="http://localhost:1313/tags/acuerdo-de-paz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Acuerdo De Paz</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_1da70566100ead27.png</url>
+      <title>Acuerdo De Paz</title>
+      <link>http://localhost:1313/tags/acuerdo-de-paz/</link>
+    </image>
+    
+    <item>
+      <title>Territorio y posconflicto</title>
+      <link>http://localhost:1313/teaching/territorio/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/territorio/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;image info&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;acerca-de&#34;&gt;Acerca de&lt;/h2&gt;
+&lt;p&gt;Este seminario electivo tiene como propósito  introducir a las/os estudiantes en una discusión conceptual y empírica alrededor de dos bloques de temas gruesos: el primero, acerca de las relaciones entre poder y violencia en Colombia; y el segundo, entre economía política, violencia y movilización social, visto desde una óptica subnacional; con el objetivo de proporcionarles herramientas para el conocimiento de los retos que comprende la denominada paz territorial.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Justicia transicional</title>
+      <link>http://localhost:1313/teaching/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/js/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;image info&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;acerca-de&#34;&gt;Acerca de&lt;/h3&gt;
+&lt;p&gt;Este curso realiza una aproximación al concepto de justicia transicional, explorando su desarrollo histórico y los debates que se suscitan alrededor del mismo. Empieza por abordar algunos fundamentos teóricos e históricos de la JT, para luego pasar a estudiar algunas experiencias comparadas, principalmente en América Latina. Asimismo, se discuten las relaciones e interacciones existentes entre el Derecho Penal Internacional y la Justicia Transicional, así como entre el Sistema Interamericano de Derechos Humanos y la JT, con el fin de entender cuál ha sido la incidencia entre aquellos y ésta.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

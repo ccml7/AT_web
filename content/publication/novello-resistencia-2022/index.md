@@ -13,4 +13,5 @@ links:
 - name: URL
   url: https://e-revistas.uc3m.es/index.php/REIB/article/view/7394
 categories: ["Artículo"]
+featured: true
 ---
