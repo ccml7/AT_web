@@ -48,6 +48,7 @@ sections:
       filters:
         folders:
           - project
+        featured-only: true
     design:
       view: article-grid
       columns: 2
