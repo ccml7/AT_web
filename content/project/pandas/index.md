@@ -1,5 +1,5 @@
 ---
-title: Bosque de Galilea: el costo socio-territorial de los bonos de carbono
+title: "Bosque de Galilea: el costo socio-territorial de los bonos de carbono"
 date: 2025-10-26
 external_link: https://fundacionmacana.org/galilea
 tags:
