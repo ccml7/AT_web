@@ -17,7 +17,7 @@ sections:
       title: Proyectos
       filters:
         folders:
-          - teaching
+          - project
     design:
       view: article-grid
       columns: 2
