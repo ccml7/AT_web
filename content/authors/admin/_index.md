@@ -16,12 +16,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Profesor Titular | Facultad de Ciencias Humanas y Artes
+role: Profesor Asistente| Departamento de Estudios Interdisciplinarios
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Universidad del Tolima
-    url: http://www.ut.edu.co/
+    url: https://idead.ut.edu.co/docentes/departamento-de-estudios-interdisciplinarios.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
