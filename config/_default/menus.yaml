@@ -10,8 +10,8 @@ main:
   - name: Publicaciones
     url: publication/
     weight: 11
-  - name: Charlas
-    url: /#talks
+  - name: Proyectos
+    url: /#projects
     weight: 12
     weight: 13
   - name: Blog
