@@ -11,7 +11,7 @@ main:
     url: publication/
     weight: 11
   - name: Proyectos
-    url: /#project
+    url: /project
     weight: 12
     weight: 13
   - name: Blog
