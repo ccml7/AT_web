@@ -1,4 +1,8 @@
 /* Change heading colors */
 h1, h2, h3, h4, h5, h6 {
-  color: #0055aa;
+  color: #000000;
+}
+
+body {
+    color:#000000
 }
