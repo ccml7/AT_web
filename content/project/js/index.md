@@ -1,16 +1,23 @@
 ---
-title: Justicia transicional
-summary: Pregrado, optativa Facultad de Ciencias Humanas y Artes
+title: Bosque de Galilea: el costo socio-territorial de los bonos de carbono
+summary: asdfasdf
 date: null
 type: docs
 math: false
 tags:
-  - Acuerdo de paz
+  - Bonos de carbono
 image:
   caption: 'Fuente: Archvo Fundación Manuel Cepeda Vargas'
 ---
 ![image info](./featured.jpeg)
 
 ### Acerca de
-Este curso realiza una aproximación al concepto de justicia transicional, explorando su desarrollo histórico y los debates que se suscitan alrededor del mismo. Empieza por abordar algunos fundamentos teóricos e históricos de la JT, para luego pasar a estudiar algunas experiencias comparadas, principalmente en América Latina. Asimismo, se discuten las relaciones e interacciones existentes entre el Derecho Penal Internacional y la Justicia Transicional, así como entre el Sistema Interamericano de Derechos Humanos y la JT, con el fin de entender cuál ha sido la incidencia entre aquellos y ésta.
+El proyecto "Bosque de Galilea: el costo socio-territorial de los bonos de carbono", analiza cómo los mecanismos de compensación climática, promovidos como soluciones al cambio climático, están generando nuevos conflictos en territorios rurales de Colombia. 
 
+En el Bosque de Galilea, declarado Parque Natural Regional en 2019, la compra de bonos de carbono por parte de empresas y actores externos ha transformado las dinámicas locales, restringido el acceso de las comunidades campesinas a sus tierras y afectado sus medios de vida.
+
+La investigación parte de una pregunta central: ¿Qué efectos tienen los bonos de carbono sobre los derechos ambientales y territoriales de las comunidades rurales? Para responderla, combina el análisis documental y mediático con el trabajo de campo y la investigación con base en comunidad. Se prioriza la voz de los campesinos, quienes enfrentan de manera directa las consecuencias de la exclusión y el despojo por conservación asociados a estos proyectos.
+
+Además de los informes académicos, el proyecto incorpora una dimensión de divulgación periodística y pedagógica, a través de la producción de un libro, diez reportajes escritos y un pódcast de seis episodios. Estas piezas buscan ampliar la comprensión pública sobre las tensiones entre conservación, desarrollo y justicia ambiental, y fortalecer la incidencia de las comunidades en los debates sobre la regulación de los mercados de carbono.
+
+Con un enfoque interdisciplinario y participativo, la investigación aporta a la discusión sobre la gobernanza territorial, la economía verde y los derechos campesinos, a través de una mirada crítica sobre los costos humanos y sociales de las políticas climáticas en Colombia y América Latina.
