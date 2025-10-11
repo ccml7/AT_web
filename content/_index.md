@@ -44,10 +44,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Charlas y Eventos
+      title: Proyectos
       filters:
         folders:
-          - event
+          - project
     design:
       view: article-grid
       columns: 2
