@@ -11,7 +11,7 @@ cascade:
 
 sections:
   - block: collection
-    id: projects
+    id: Proyectos
     date: null
     content:
       title: Proyectos

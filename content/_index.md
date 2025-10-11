@@ -27,7 +27,7 @@ sections:
           filename: verde_verde.png
           filters:
             brightness: 1.0
-          size: contain
+          size: cover
           position: center
           parallax: false
   - block: collection
