@@ -1,5 +1,5 @@
 ---
-title: Bosque de Galilea: el costo socio-territorial de los bonos de carbono
+title: "Bosque de Galilea: el costo socio-territorial de los bonos de carbono"
 summary: asdfasdf
 date: null
 type: docs
